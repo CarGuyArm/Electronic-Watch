@@ -5,6 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
+        System.out.println("Hello");
         System.out.print("Input seconds: ");
         int seconds = scanner.nextInt();
         int hours = 0,minutes = 0;
