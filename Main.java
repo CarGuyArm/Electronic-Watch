@@ -17,8 +17,8 @@ public class Main {
         minutes -= hours*60;
 /*
         second = seconds % 60; //
-        minutes = (seconds/60)%60; // 1 ropen = 60 vrk
-        hours = (seconds/60)/60; // 1 jam = 3600 vrk
+        minutes = (seconds/60)%60; //
+        hours = (seconds/60)/60; //
 */
         System.out.println("Seconds converted to HH : MM : SS format.");
         if (hours > 23)
