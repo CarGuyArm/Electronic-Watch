@@ -4,4 +4,5 @@ public class file {
     String name;
     String password;
     int phonenumber;
+    int number;
 }
